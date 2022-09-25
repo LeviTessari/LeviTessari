@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![LeviTessari](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![LeviTessari](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviTessari&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 LeviTessari/LeviTessari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

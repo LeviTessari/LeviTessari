@@ -1,17 +1,19 @@
 ## 💜 Olá, meu nome é <strong>Levi Tessari!</strong>
 
-:mortar_board: Sou graduado em Física-Biológica e mestre em Biofísica Molecular pela Universidade Estadual Paulista e estou em processo de formação na GrowDev.
-:basketball: Sou um amante de esportes, prático artes marciais e tenho afindades por basquete e natação.
-:meat_on_bone::beers: Gosto de estar presente aos meus amigos e colegas.
+ :mortar_board: Sou graduado em Física-Biológica e mestre em Biofísica Molecular pela Universidade Estadual Paulista e estou em processo de formação na GrowDev.
+ :basketball: Sou um amante de esportes, prático artes marciais e tenho afindades por basquete e natação.
+ :meat_on_bone::beers: Gosto de estar presente aos meus amigos e colegas.
 :school: Atualmente leciono matérias de física, química e matemática em aulas particulares em uma escola da região.
   > Tenho experiência de lecionar por 6 anos em cursinho pré-vestibular.
   > Consegui por 3 anos consecutivos bolsa de monitoria de Física 1 e 2 para faculdade que estudei.
- :office: Participei de diversos grupos e faziamos eventos como: festas, projetos sociais e competições esportivas. 
+  
+ 
+  :office: Participei de diversos grupos e faziamos eventos como: festas, projetos sociais e competições esportivas. 
  :seedling: No momento estou desenvolvendo minha hardskill como HTML e CSS.
  :thought_balloon: Objetivo de sempre superar quem eu já fui, hoje sou diferente do que fui ontem e pra melhor. 
-:ant: Um passo de cada vez e assim conseguimos em grupo superar grandes barreiras.
-:house_with_garden: Moro atualmente na cidade de São Paulo.
-:mailbox_closed: levitessari@gmail.com
+ :ant: Um passo de cada vez e assim conseguimos em grupo superar grandes barreiras.
+ :house_with_garden: Moro atualmente na cidade de São Paulo.
+ :mailbox_closed: levitessari@gmail.com
 
 ----
 
